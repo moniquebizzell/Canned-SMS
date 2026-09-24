@@ -1,0 +1,8 @@
+{
+  "name": "Canner SMS",
+  "description": "High-efficiency canned SMS response launcher with instant-tap quick templates for commuters and drivers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
